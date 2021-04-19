@@ -1,6 +1,7 @@
-body{background:blue;}
+body{background:red;}
 h1{
     color:white;
     text-align: center;
     margin-top:10%;
+    text-transform:uppercase;
 }
